@@ -25,7 +25,7 @@
 - SQL  
 - Spring  
 - HTML  
-- React  
+- React   
 
 ---
 
