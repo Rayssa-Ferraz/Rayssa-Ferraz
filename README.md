@@ -4,23 +4,23 @@
 
 
 
-# Olá! 👋 Bem-Vindxs ao meu Perfil!
+   # Olá! 👋 Bem-Vindxs ao meu Perfil!
 
 💻 **Iniciando minha jornada na programação**  
-🎓 Estudante de **Gestão de Tecnologia da Informação** na UNIP  
-🚀 Participante do **Programa Generation Brasil – Desenvolvimento Web Full Stack Jr. (Java com React) **  
+🎓 Estudante de **Gestão de Tecnologia da Informação** - **UNIP**  
+🚀 Participante do **Bootcamp Desenvolvimento Web Full Stack Jr.(Java com React) - Generation Brasil**  
 🌱 Aprendendo e evoluindo constantemente  
 
 ---
 
 ## 🛠 Tecnologias
 
-### ✅ Já aprendi
+### 🏅 Já aprendi
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-### 🌱 Em aprendizado
+### 👩‍💻 Em aprendizado
 - JavaScript  
 - SQL  
 - Spring  
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 Nível de aprendizado (indicativo)
+## 📊 Nível de aprendizado
 
 - **Java:** ▓▓▓▓▓░░░░░ 50%  
 - **Git/GitHub:** ▓▓▓▓▓░░░░░ 50%  
@@ -39,11 +39,11 @@
 - **HTML:** ░░░░░░░░░░ 0%  
 - **React:** ░░░░░░░░░░ 0%  
 
-*(Esses valores podem ser ajustados conforme seu progresso)*  
+ 
 
 ---
 
-## 🌟 Projetos em destaque
+## 🌟 Projetos em destaque 🌟
 
 ### 🪁 Projeto Loja de Pipas 🪁
 - **Descrição:** Sistema de gerenciamento de loja de pipas com cadastro de produtos e vendas.  
@@ -59,7 +59,7 @@
 
 ---
 
-## 🌱 Sobre mim
+## 👩 Sobre mim 👩
 
 - Apaixonada por aprender e evoluir 
 - Foco em transformar ideias em projetos reais  
