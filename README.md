@@ -59,17 +59,13 @@
 
 ---
 
-## 🌟 Projetos em destaque 🌟
+## 📊 GitHub Stats
 
-### 🪁 Projeto Loja de Pipas 🪁
-- **Descrição:** Sistema de gerenciamento de loja de pipas com cadastro de produtos e vendas.  
-- **Tecnologias:** Java, POO  
-- **Repositório:** [loja-de-pipas](https://github.com/seu-usuario/loja-de-pipas)  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayssa-Ferraz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayssa-Ferraz&layout=compact&langs_count=10&theme=radical"/>
+</div>
 
-### 🏦 Projeto Conta Bancária 🏦
-- **Descrição:** Simulação de operações bancárias com cadastro, consulta e atualização de contas.  
-- **Tecnologias:** Java, POO  
-- **Repositório:** [conta-bancaria-java](https://github.com/seu-usuario/conta-bancaria-java)  
 
  
 
@@ -83,8 +79,18 @@
 
 ---
 
-## 📫 Contato
+## 🌐 Meus Contatos
 
-- [LinkedIn](www.linkedin.com/in/rayssa-costa-rezende-ferraz-b40944223)  
-- [Email](rayssa_nana@hotmail.com)  
+<p align="left">
+  <a href="mailto:rayssa_nana@hotmail.com">
+    <img src="https://img.shields.io/badge/-rayssa_nana@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/rayssa-ferraz/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Rayssa-Ferraz" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 
