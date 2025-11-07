@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/45b4de25-f723-4841-96a6-d8b8c4c7fc00" />
+<img width="1100" height="500" alt="image" src="https://ik.imagekit.io/f9incgeso/Design%20sem%20nome%20(1).png?updatedAt=1762553844131" />
 
 
 
@@ -15,18 +15,31 @@
 
 ## 🛠 Tecnologias
 
-### 🧠 Back-End (Concluído)
+### ☕ Back-End (Concluído)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Deploy](https://img.shields.io/badge/Deploy-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌸 Front-End (Em andamento)
+---
+
+### 🎨 Front-End (Concluído)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+> 💬 *Aprendizado complementar:* breve introdução ao **TypeScript** durante o módulo de Front-End.
+
+---
+
+### 🤖 Inteligência Artificial (Em andamento)
+![AI](https://img.shields.io/badge/IA%20%26%20Produtividade-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### ⚛️ Front-End Avançado (Em breve)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
@@ -39,7 +52,8 @@
 - **Git/GitHub:** ▓▓▓▓▓▓▓▓░░ 90%  
 - **HTML5:** ▓▓▓▓▓▓▓▓▓▓ 100%  
 - **CSS3:** ▓▓▓▓▓▓▓▓▓▓ 100%  
-- **JavaScript:** ░░░░░░░░░░ 0%
+- **JavaScript:** ▓▓▓▓▓▓▓▓▓▓ 100%  
+- **Inteligência Artificial:** ░░░░░░░░░░ 0% 
 - **React:** ░░░░░░░░░░ 0% 
 
 
